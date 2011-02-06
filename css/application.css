@@ -1,0 +1,23 @@
+body {
+  background: #FFF;
+}
+
+#header {
+  width: 100%;
+  background: #002F2F;
+  color: #EFECCA;
+}
+
+#header a {
+  text-decoration: none;
+  color: #EFECCA;
+}
+
+#header a:hover {
+  color: #E6E2AF;
+}
+
+#header #navbar a {
+  margin-left: 1em;
+  margin-right: 1em;
+}
